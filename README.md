@@ -1,3 +1,4 @@
 # traineredith.github.io
 
-## My cool new GitHub Page
+## My cool new GitHub Page 
+😻
